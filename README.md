@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Assignment: Capstone Project Notebook
+# Project-Alpha
+Assignment: Project Notebook
